@@ -1,0 +1,9 @@
+to make any changes : 
+1)to make changes in any section go to here : src/components/portfolio
+
+2)to make experience thing to appear again go to 
+D:\NON-SYSTEM FILES\my-creative-space\src\pages\Index.tsx
+
+3) to make the changes in the certificate/ Badges go to src/components/portfolio/project.tsx 
+to change image go to D:\NON-SYSTEM FILES\my-creative-space\src\assets
+
